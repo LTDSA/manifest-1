@@ -50,7 +50,7 @@
 
 ----------------------------------
  
- Compilation of Dot OS
+ Dot OS的编译
  ==================
 
 从root directory of项目, perform following命令在终端
