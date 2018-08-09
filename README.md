@@ -53,7 +53,7 @@
  Dot OS的编译
  ==================
 
-从root directory of项目, perform following命令在终端
+从项目的根目录，在终端操作以下命令
 
 
 ```bash
@@ -71,7 +71,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
-For maintainership & to提交patches refer [**这里**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
+For maintainership & to提交patches refer [**此处**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
 
 --------------------------------------------------------------------------------------------------------------------------
 
