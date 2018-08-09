@@ -23,29 +23,29 @@
  
  Gerrit
  ==============
- Submit your All patches through our [Gerrit Code Review](http://gerrit.droidontime.com/).
+ 提交您的全部patches通过我们的[Gerrit Code Review](http://gerrit.droidontime.com/).
 
  Getting Started
  ==============
 
-To get started with the building process, you'll need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+To get started with the building process, you'll need to get familiar with [Git和Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository, use a command like this:
+要初始化您的本地数据库，使用一个像这样的命令：
 
 ```bash
     repo init -u git://github.com/DotOS/manifest.git -b dot-o
 ```
 
-Then to sync up:
+然后to sync up:
 
 ```bash
     repo sync  -f --force-sync --no-clone-bundle
 ```
 
-Additionally, you can define the number of parallel download repo should do:
+另外，您可以define the number of parallel下载数据库should do:
 
 ```bash
-    repo sync -f -jX --force-sync --no-clone-bundle  ( X is the number of parallel download repo should do choose depending on your cpu )
+    repo sync -f -jX --force-sync --no-clone-bundle  ( X is the number of parallel下载数据库should do choose depending on您的cpu )
 ```
 
 ----------------------------------
@@ -53,7 +53,7 @@ Additionally, you can define the number of parallel download repo should do:
  Compilation of Dot OS
  ==================
 
-From root directory of Project, perform following commands in terminal
+从root directory of项目, perform following命令在终端
 
 
 ```bash
@@ -71,7 +71,7 @@ From root directory of Project, perform following commands in terminal
 
 --------------------------------------------------------------------------------------------------------------------------
 
-For maintainership & to submit patches refer [**HERE**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
+For maintainership & to提交patches refer [**这里**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
 
 --------------------------------------------------------------------------------------------------------------------------
 
