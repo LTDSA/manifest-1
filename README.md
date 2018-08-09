@@ -25,10 +25,10 @@
  ==============
  提交您的全部patches通过我们的[Gerrit Code Review](http://gerrit.droidontime.com/).
 
- Getting Started
+ 准备开始
  ==============
 
-To get started with the building process, you'll need to get familiar with [Git和Repo](http://source.android.com/source/using-repo.html).
+要准备开始with the building process, you'll need to get familiar with [Git和Repo](http://source.android.com/source/using-repo.html).
 
 要初始化您的本地数据库，使用一个像这样的命令：
 
